@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">A1_Felix_L</string>
+
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="button1">New Quote</string>
+
+    <string-array name="stringQuotes">
+        <item>“Isn’t ‘bribe’ just another word for ‘love’?”</item>
+        <item>“Now I may be an idiot, but there’s one thing I am not sir, and that sir, is an idiot.”</item>
+        <item>“Come on, let’s go drink until we can’t feel feelings anymore.”</item>
+    </string-array>
+
+
+
+</resources>

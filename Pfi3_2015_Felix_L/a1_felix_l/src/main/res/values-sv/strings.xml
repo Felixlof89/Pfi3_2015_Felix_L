@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A1_Felix_L</string>
+
+    <string name="button1">Nytt Citat</string>
+
+    <string-array name="stringQuotes">
+        <item>“Är en muta inte samma sak som att visa kärlek? "</item>
+        <item>“Jag kan är en idiot. Men vad jag inte är, min herre, är en idiot.”</item>
+        <item>“Kom igen! Låt oss dricka tills vi inte kan känna känslor längre.”</item>
+    </string-array>
+</resources>
